@@ -1,0 +1,76 @@
+{
+    "tabledata":
+    [
+    ["Project Value($)", 20000],
+    ["Project status", "Active"],
+    ["No of Employees", 0],
+    ["No of Employee Openings", 305],
+    ["No of Investers", 0],
+    ["Total Investments", 0],
+    ["Total Area ()", 0],
+    ["Project Location", "Noida"]
+],
+"projectdata" : [
+    {
+      "imgurl": "/assets/images/image_our_mission.png",
+      "title": "Project name",
+      "rating": 2,
+      "detail":
+        "Here we have two images and we want them to fill the width of 50% of the browser window and 100% of the height."
+    },
+    {
+        "imgurl": "/assets/images/image_our_mission.png",
+        "title": "Project name",
+        "rating": 2,
+        "detail":
+          "Here we have two images and we want them to fill the width of 50% of the browser window and 100% of the height."
+      },
+      {
+        "imgurl": "/assets/images/image_our_mission.png",
+        "title": "Project name",
+        "rating": 2,
+        "detail":
+          "Here we have two images and we want them to fill the width of 50% of the browser window and 100% of the height."
+      },
+      {
+        "imgurl": "/assets/images/image_our_mission.png",
+        "title": "Project name",
+        "rating": 2,
+        "detail":
+          "Here we have two images and we want them to fill the width of 50% of the browser window and 100% of the height."
+      }
+  ],
+  "phasesdata" : [
+    {
+      "title": "New Work Request"
+    },
+    {
+      
+        "title": "Health"
+        
+      },
+      {
+       
+        "title": "Monitor"
+       
+      },
+      {
+       
+        "title": "Track"
+       
+      },
+      {
+      
+        "title": "Payments"
+      
+      },
+      {
+       
+        "title": "Documents"
+       
+      }
+
+  ]
+
+
+}
